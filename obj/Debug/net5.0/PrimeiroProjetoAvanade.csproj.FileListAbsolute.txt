@@ -1,0 +1,16 @@
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\PrimeiroProjetoAvanade.csproj.AssemblyReference.cache
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\PrimeiroProjetoAvanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\PrimeiroProjetoAvanade.AssemblyInfoInputs.cache
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\PrimeiroProjetoAvanade.AssemblyInfo.cs
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\PrimeiroProjetoAvanade.csproj.CoreCompileInputs.cache
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\bin\Debug\net5.0\PrimeiroProjetoAvanade.exe
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\bin\Debug\net5.0\PrimeiroProjetoAvanade.deps.json
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\bin\Debug\net5.0\PrimeiroProjetoAvanade.runtimeconfig.json
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\bin\Debug\net5.0\PrimeiroProjetoAvanade.runtimeconfig.dev.json
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\bin\Debug\net5.0\PrimeiroProjetoAvanade.dll
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\bin\Debug\net5.0\ref\PrimeiroProjetoAvanade.dll
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\bin\Debug\net5.0\PrimeiroProjetoAvanade.pdb
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\PrimeiroProjetoAvanade.dll
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\ref\PrimeiroProjetoAvanade.dll
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\PrimeiroProjetoAvanade.pdb
+C:\Users\Adan\Desktop\PrimeiroProjetoAvanade\obj\Debug\net5.0\PrimeiroProjetoAvanade.genruntimeconfig.cache
